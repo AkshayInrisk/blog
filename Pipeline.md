@@ -1,4 +1,4 @@
-#Building a Data Pipeline on Google Cloud Using Flask and Parquet
+# Building a Data Pipeline on Google Cloud Using Flask and Parquet
 
 In today’s data-driven world, the ability to move, process, and store information efficiently is the backbone of any analytics or decision-making system. Behind most modern dashboards, forecasts, and models lies a silent workhorse — the data pipeline. This article dives deep into how a production-grade data pipeline can be built using Flask, Google Cloud Storage (GCS), and Parquet, with a focus on reliability, scalability, and automation.
 
